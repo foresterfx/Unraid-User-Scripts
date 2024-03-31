@@ -1,2 +1,2 @@
 # Unraid-User-Scripts
-Some Scripts I use
+Some Scripts for Unraid plugin "User Scripts"
